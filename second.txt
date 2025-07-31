@@ -1,1 +1,2 @@
-econd file
+Second
+Hello from new-branch!
